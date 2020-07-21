@@ -32,6 +32,9 @@
         padding-left: 20px;
         padding-bottom: 20px;
         background-color: white;
+        width: 570px;
+        position: relative;
+        overflow: auto;
     }
     
     .form {
