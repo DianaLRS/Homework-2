@@ -1,0 +1,80 @@
+body {
+    background-color: whitesmoke;
+}
+
+nav span {
+    padding: 20px;
+    margin-left: 30px;
+}
+
+.header {
+    background-color: darkslategray;
+    border-right: solid 3px whitesmoke;
+    border-left: solid 3px whitesmoke;
+}
+
+.nav-name {
+    color: white;
+    font-size: 25px;
+    margin-left: 34px;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 700;
+}
+
+a {
+    color: darkgray;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.header-card {
+    margin-top: 20px;
+}
+
+.container {
+    border: solid #eee 1px;
+    position: relative;
+    margin-top: 20px;
+    padding: 30px;
+    overflow: auto;
+    background-color: white;
+}
+
+h2 {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 700;
+    color: dimgrey;
+    padding-left: 40px;
+}
+
+.m-4 {
+    border: solid darksalmon 2px;
+}
+
+.img {
+    width: 100%;
+    padding: 15px;
+    float: left;
+}
+
+#profileText {
+    padding-top: 20px;
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    align: center;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    border-top: solid darksalmon 6px;
+    width: 105%;
+    background-color: darkslategrey;
+}
+
+h3 {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: small;
+    font-weight: 400;
+    text-align: center;
+    margin-left: -100px;
+}

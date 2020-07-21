@@ -1,0 +1,89 @@
+    body {
+        background-color: whitesmoke;
+    }
+    
+    nav span {
+        padding: 20px;
+        margin-left: 30px;
+    }
+    
+    .header {
+        background-color: darkslategray;
+        border-right: solid 3px whitesmoke;
+        border-left: solid 3px whitesmoke;
+    }
+    
+    .nav-name {
+        color: white;
+        font-size: 25px;
+        margin-left: 34px;
+        font-family: 'Noto Sans JP', sans-serif;
+        font-weight: 700;
+    }
+    
+    a {
+        color: darkgray;
+        font-family: 'Noto Sans JP', sans-serif;
+    }
+    
+    #containerForm {
+        border: solid #eee 1px;
+        padding-top: 25px;
+        padding-left: 20px;
+        padding-bottom: 20px;
+        background-color: white;
+    }
+    
+    .form {
+        padding-top: 30px;
+        padding-left: 0.5cm;
+        position: relative;
+        float: center;
+    }
+    
+    h2 {
+        font-family: 'Noto Sans JP', sans-serif;
+        font-weight: 700;
+        color: dimgrey;
+        text-align: center;
+    }
+    
+    .m-4 {
+        border: solid darksalmon 2px;
+    }
+    
+    #contactHeader {
+        height: 20px;
+    }
+    
+    .contact {
+        font-size: 25px;
+    }
+    
+    label {
+        color: slategrey;
+    }
+    
+    #submit {
+        background-color: darksalmon;
+        border: solid 1px dimgray;
+    }
+    
+    #footer {
+        position: fixed;
+        bottom: 0;
+        align: center;
+        padding-top: 20px;
+        padding-bottom: 0px;
+        border-top: solid darksalmon 6px;
+        width: 105%;
+        background-color: darkslategrey;
+    }
+    
+    h3 {
+        font-family: 'Noto Sans JP', sans-serif;
+        font-size: small;
+        font-weight: 400;
+        text-align: center;
+        margin-left: -100px;
+    }
