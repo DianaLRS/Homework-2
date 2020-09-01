@@ -34,9 +34,9 @@ a {
 
 .card {
     width: fit-content;
-    height: 375px;
+    height: fit-content;
     position: relative;
-    padding: 15px;
+    padding: 20px;
 }
 
 .card-body {
@@ -49,12 +49,11 @@ a {
 
 .card-title {
     height: 30px;
+    width: 100%;
     background-color: darksalmon;
-    padding-left: 100px;
-    padding-right: 100px;
-    position: absolute;
-    top: 0;
-    margin-top: 10px;
+    opacity: 90%;
+    margin: auto;
+    margin-top: -17px;
 }
 
 h5 {
@@ -82,4 +81,10 @@ h3 {
     font-weight: 400;
     text-align: center;
     margin-left: -100px;
+}
+
+.repo {
+    font-size: 18px;
+    color: darkslategrey;
+    border-bottom: solid 1px;
 }
