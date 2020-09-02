@@ -30,4 +30,8 @@ Contact Page:
 
     * Footer is fixed to bottom
 
+  
+![aboutme](assets/images/aboutme.png)
+![portfolio](assets/images/portfolio.png)
+![contact](assets/images/contact.png)
 
